@@ -37,13 +37,16 @@ nav {
 list-style-type: none;
 display: inline-block;
 }
+a {
+   color:blue; 
+}
 #weather_report {
 clear:both;
 }
  #moon{
   margin-left: 54px;
-  margin-right:300px;   
-
+  margin-right:300px; 
+ }  
 
 #blue-header {
     margin-top: -10px;
