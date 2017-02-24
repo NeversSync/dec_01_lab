@@ -31,6 +31,20 @@ nav {
     color: darkgrey;
 }
 
+
+
+#weather_report ul {
+list-style-type: none;
+display: inline-block;
+}
+#weather_report {
+clear:both;
+}
+ #moon{
+  margin-left: 54px;
+  margin-right:300px;   
+
+
 #blue-header {
     margin-top: -10px;
     color: navy;
@@ -118,4 +132,5 @@ button {
 
 #espanol {
     margin-top: 20px;
+
 }
