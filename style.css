@@ -77,6 +77,7 @@ clear:both;
 }
 .day {
     font-weight: bold;
+    height: 30px;
 }
 .red-temp {
     color: red;
@@ -84,6 +85,10 @@ clear:both;
 
 .blue-temp {
     color: lightskyblue;
+}
+
+.thirdp {
+    height: 70px;
 }
 
 /*Main/Div styling*/
@@ -133,5 +138,5 @@ button {
 
 #espanol {
     margin-top: 20px;
-
 }
+
