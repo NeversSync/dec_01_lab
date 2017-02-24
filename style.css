@@ -43,12 +43,13 @@ clear:both;
  #moon{
   margin-left: 54px;
   margin-right:300px;   
-
+}
 
 #blue-header {
     margin-top: -10px;
     color: navy;
 }
+
 #weekly_outlook {   
     padding: 10px;
     
