@@ -48,10 +48,12 @@ clear:both;
   margin-right:300px; 
  }  
 
+
 #blue-header {
     margin-top: -10px;
     color: navy;
 }
+
 #weekly_outlook {   
     padding: 10px;
     
@@ -79,6 +81,7 @@ clear:both;
 }
 .day {
     font-weight: bold;
+    height: 30px;
 }
 .red-temp {
     color: red;
@@ -86,6 +89,10 @@ clear:both;
 
 .blue-temp {
     color: lightskyblue;
+}
+
+.thirdp {
+    height: 70px;
 }
 
 /*Main/Div styling*/
@@ -135,5 +142,5 @@ button {
 
 #espanol {
     margin-top: 20px;
-
 }
+
