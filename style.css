@@ -31,6 +31,46 @@ nav {
     color: darkgrey;
 }
 
+#blue-header {
+    margin-top: -10px;
+    color: navy;
+}
+#weekly_outlook {   
+    padding: 10px;
+    
+}
+#weekly-header-container {
+    background-color: lightgray;
+    border: 2px solid lightgray;
+    width: 100%;
+    height: 70px;
+    padding: 10px;
+    border-radius: 10px 10px 0px 0px;
+}
+#forcast-container {
+    border: 2px solid lightgray;
+    text-align: center;
+    padding: 10px;
+    width: 100%;
+    border-radius: 0px 0px 10px 10px;
+}
+.hour-forcast-container {
+    width: 100px;
+    height: 100px;
+    display: inline-block;
+    margin: 0px 15px;
+}
+.day {
+    font-weight: bold;
+}
+.red-temp {
+    color: red;
+}
+
+.blue-temp {
+    color: lightskyblue;
+}
+
 /*Main/Div styling*/
 #search_container {
     display: inline-block;
