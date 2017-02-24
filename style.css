@@ -31,20 +31,6 @@ nav {
     color: darkgrey;
 }
 
-
-
-#weather_report ul {
-list-style-type: none;
-display: inline-block;
-}
-#weather_report {
-clear:both;
-}
- #moon{
-  margin-left: 54px;
-  margin-right:300px;   
-
-
 #blue-header {
     margin-top: -10px;
     color: navy;
@@ -76,6 +62,7 @@ clear:both;
 }
 .day {
     font-weight: bold;
+    height: 30px;
 }
 .red-temp {
     color: red;
@@ -83,6 +70,10 @@ clear:both;
 
 .blue-temp {
     color: lightskyblue;
+}
+
+.thirdp {
+    height: 70px;
 }
 
 /*Main/Div styling*/
@@ -132,5 +123,5 @@ button {
 
 #espanol {
     margin-top: 20px;
-
 }
+
