@@ -27,3 +27,17 @@ nav {
     padding-top: 15px;
     color: darkgrey;
 }
+
+
+#weather_report ul {
+list-style-type: none;
+display: inline-block;
+}
+#weather_report {
+clear:both;
+}
+ #moon{
+  margin-left: 54px;
+  margin-right:300px;   
+
+}
