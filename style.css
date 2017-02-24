@@ -1,7 +1,9 @@
+/*Global styles*/
 * {
     font-family: sans-serif;
 }
 
+/*Header styles*/
 #heading-bar-container {
     width: 100%;
 }
@@ -19,6 +21,7 @@ nav {
     text-decoration: none;
     height: 50px;
     text-align: left;
+    margin-bottom: 10px;
 }
 
 #navbar li {
@@ -27,6 +30,7 @@ nav {
     padding-top: 15px;
     color: darkgrey;
 }
+
 #blue-header {
     margin-top: -10px;
     color: navy;
@@ -65,4 +69,53 @@ nav {
 
 .blue-temp {
     color: lightskyblue;
+}
+
+/*Main/Div styling*/
+#search_container {
+    display: inline-block;
+    width: 40%;
+    margin-right: 0px;
+}
+
+article h3 {
+    margin: 5px 5px;
+    font-size: 20px;
+}
+
+#rain_article {
+    float: right;
+    width: 55%;
+    font-size: 15px;
+}
+
+input {
+    width: 100px;
+    height: 35px;
+    font-size: 25px;
+    -webkit-appearance: none;
+}
+
+button {
+    height: 30px;
+    width: 50px;
+    margin-bottom: 3px;
+}
+
+#local_office {
+    margin: 10px 0px 5px 0px;
+    font-size: 15px;
+}
+
+
+#seattle_link {
+    margin: 5px 0px 25px 0px;
+}
+
+#view_location {
+    font-size: 15px;
+}
+
+#espanol {
+    margin-top: 20px;
 }
